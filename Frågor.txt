@@ -1,0 +1,18 @@
+När använder man add respektive commit?
+Man använder sig av add när man vill lägga till något i sin staging area och commit används för
+att "checka in" ändringar innan  man pushar till sin repo.
+
+Vad är pull repektive push?
+Pull använder man sig av när man vill hämta eventuella ändringar och push
+används när man vill "pusha" till sin repo.
+
+När använder man log respektive status?
+Log används när man vill se vilka commits som har gjort och
+status används när man vill se vad som har lagts till i sin staging area samt vilka 
+filer som ännu inte blivit "addade".
+
+Hur kan man formulera sig i sina commit-meddelanden?
+Spara filen, lägg till den i repot, committa, pusha
+Jag antar att man kan formulera sig hur man vill men syftet är att man ska lätt kunna se
+vad som har gjorts. Exempelvis "Made changes to ***.txt" eller 
+"Removed while-loop from ***.java on line 56".
